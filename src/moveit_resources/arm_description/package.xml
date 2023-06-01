@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>moveit_resources_arm_description</name>
+  <version>2.0.6</version>
+  <description> Resources for robotic arm </description>
+
+  <author email="fadieid.eng@gmail.com">Fadi Eid</author>
+
+  <maintainer email="fadieid.eng@gmail.com">Fadi Eid</maintainer>
+
+  <license>BSD</license>
+  <url type="website">http://moveit.ros.org</url>
+  
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+      <build_type>ament_cmake</build_type>
+  </export>
+</package>
+
